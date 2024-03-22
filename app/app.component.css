@@ -1,0 +1,36 @@
+
+
+.container input{
+    
+    background-color: black;
+    color: aqua;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px dashed whitesmoke;
+    margin: 2px;
+    font-size: xx-large;
+
+}
+
+.container input:hover {
+    color: aquamarine;
+    font-weight:bold;
+
+}
+
+.full{
+
+    border: 10px solid coral;
+    margin: 2px;
+    padding: 12px;
+    border-radius: 20px;
+    background-image: url(../assets/21250.jpg);
+}
+
+input[type="text"]{
+    color:red;
+    text-align: right;
+
+}
+
